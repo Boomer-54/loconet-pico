@@ -1,0 +1,7 @@
+# KiCad: Sperr-, Autosave- und Sicherungsdateien
+~*.lck
+_autosave-*
+*-backups/
+*.bak
+fp-info-cache
+*.kicad_prl
