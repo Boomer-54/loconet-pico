@@ -6005,7 +6005,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "LocoNet-Eingang: Schwelle ca. 5 V (R3 47k / R7 6k8),\nQ4 invertiert zurück: Leitung High = RX High"
+	(text "LocoNet-Eingang: Schwelle ca. 3,4-4 V (R3 47k / R7 10k),\nQ4 invertiert zurück: Leitung High = RX High"
 		(exclude_from_sim no)
 		(at 228.6 172.72 0)
 		(effects
@@ -12470,7 +12470,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "6k8"
+		(property "Value" "10k"
 			(at 238.76 207.518 90)
 			(show_name no)
 			(do_not_autoplace no)
