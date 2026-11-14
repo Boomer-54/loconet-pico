@@ -13,6 +13,11 @@ KiCad-Projekt, Schaltplan als PDF und Fertigungsdaten liegen in [`loconet-pico/`
 - **Senden:** Q1 (BC557) / Q2 (BC337) ziehen die Leitung über D1 (1N5818) auf Masse.
 - **Schutz:** TVS-Diode D3 (P6KE18CA) am LocoNet, nah an J9/J10.
 
+## Getestet mit
+
+- Zentrale: YaMoRC YD7001
+- Rocrail ab Revision 7547
+
 ## Stromversorgung
 
 Die Servos brauchen externe 5 V über J11. USB reicht nur zum Testen mit 1–2 Servos.
