@@ -3,6 +3,10 @@
 LocoNet-Modul mit Raspberry Pi Pico für 16 Servos (J12–J27).
 KiCad-Projekt, Schaltplan als PDF und Fertigungsdaten liegen in [`loconet-pico/`](loconet-pico/).
 
+![Bestücktes Servoboard im Testaufbau](bilder/servoboard.jpg)
+
+*Bestücktes Board im Testaufbau, noch mit der kleinen Klemme J11 (2,54 mm Raster).*
+
 ## LocoNet-Anbindung
 
 - **Empfang:** Transistor-Eingangsstufe statt Spannungsteiler.
